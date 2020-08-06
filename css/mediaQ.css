@@ -1,0 +1,658 @@
+@media (min-width: 1550px)  {
+	.indicators {display: none}
+}
+
+@media (max-width: 1199.98px) {
+
+.container {
+	width: 100vw;
+	margin: auto;
+}
+main .main-content {
+	justify-content: center;
+	flex-wrap: wrap;
+}
+main .social-md li:first-child {
+	border: none;
+	padding: 1rem 5px
+}
+main .social-md li {
+	border: none
+}
+main .contacts > span {
+padding:0;
+border-right:none;
+border-left:none;
+margin-right: 6px;
+font-size: 11px
+}
+.slider nav {
+		width: 99vw;
+		display: block;
+		text-align: center
+	}
+.slider nav h2 {
+	font-size: 18px;
+	word-spacing: 3px
+}
+.slider nav ul {
+	line-height: 0;
+	margin-right: 6px;
+}
+.slider nav li {
+	margin-left: 0;
+	padding: 9px 3px
+}
+.slider .slider-contact {
+	margin: auto;
+	text-align: center;
+}
+.slider .slider-contact span {
+	font-size: 14px;
+}
+.slider .slider-contact h1 {
+	font-size: 25px;
+}
+.slider .slider-contact p {
+	width: 79%;
+	font-size: 13px;
+	margin: auto;
+}
+.indicators {
+	display: none
+}
+.request .request-content {
+	display: block;
+	text-align: center
+}
+.financial-content {
+	display: block;
+	text-align: center
+}
+.financial-services .serv-head h2 {
+	font-size: 2rem
+}
+.financial-content .serv-image {
+	margin-right: 9px
+}
+.financial-content .serv-image h3 {
+	font-size: 14px; margin-left: 0;
+}
+.financial-content .serv-image p {
+	font-size: 12px; margin-left: 0;
+}
+.financial-content .serv-image button {
+	margin: 0 0 30px 0;
+}
+.our-solutions .solutions-info .left-content button {
+	margin: 0 auto 30px auto;
+}
+.our-solutions .solu-overly {
+	height: 100%;
+}
+.our-solutions .solutions-info {
+	text-align: center;
+	width: 100%;
+	display: block;
+}
+.our-solutions .solutions-info .left-content h2 {
+	font-size: 26px
+}
+
+.our-solutions .solutions-info .left-content p {
+	font-size: 14px;
+	width: 100%;
+	padding-right: 5px;
+	padding-left: 5px
+}
+.our-solutions .solutions-info .right-content {
+	display: block;
+}
+.right-content .right-inner {
+	display: block;
+	text-align: center;
+	width: 58vw;
+	height: 16vh;
+	margin: auto;
+}
+.our-solutions {
+	height: 85rem
+}
+.whoWeAre .whoWeAre-content {
+	display: block
+}
+.whoWeAre .right-content {
+	text-align: center;
+}
+.whoWeAre .right-content span {
+	margin-left: 0
+}
+.whoWeAre .right-content h2 {
+	margin-left: 0;
+	font-size: 1.5rem
+}
+.whoWeAre .right-content p {
+	margin-left: 0; width: auto;
+}
+.whoWeAre .right-content button {
+	margin: .8rem 0 3rem 0
+}
+.testimonials .testi-inner {
+	display: block
+}
+.testimonials {
+	padding: 1rem 0
+}
+.testimonials .testi-item {
+	padding: 10px 0
+}
+.testimonials .testimonials-content > h2 {
+	font-size: 30px;
+}
+.contact-us .contact-info > h2 {
+	font-size: 2rem
+}
+.contact-us .form-info form {
+	display: block;
+	margin: 0
+}
+.contact-us .form-info form input {
+	width: 76vw;
+	margin-left: 0
+}
+.partners .partners-inner {
+	flex-wrap: wrap;
+}
+.partners .partners-inner img {
+	margin-bottom: 15px
+}
+footer {
+	padding: 0
+}
+footer .footer-content {
+	flex-wrap: wrap;
+	justify-content: flex-start;
+	padding-left: 10px
+}
+footer .footer-content .footer-item {
+	margin-right: 50px
+}
+footer .footer-content .form input,
+footer .footer-content .form textarea {
+	width: 84vw
+}
+footer .copyRight span {
+	display: block
+}
+.goUp {
+	right: 10px;
+	width: 7vw
+}
+}
+@media (max-width: 991.98px) {
+
+.container {
+	width: 100vw;
+	margin: auto;
+}
+main .main-content {
+	justify-content: center;
+	flex-wrap: wrap;
+}
+main .social-md li:first-child {
+	border: none;
+	padding: 1rem 5px
+}
+main .social-md li {
+	border: none
+}
+main .contacts > span {
+padding:0;
+border-right:none;
+border-left:none;
+margin-right: 6px;
+font-size: 11px
+}
+.slider nav {
+		width: 99vw;
+		display: block;
+		text-align: center
+	}
+.slider nav h2 {
+	font-size: 18px;
+	word-spacing: 3px
+}
+.slider nav ul {
+	line-height: 0;
+	margin-right: 6px;
+}
+.slider nav li {
+	margin-left: 0;
+	padding: 9px 3px
+}
+.slider .slider-contact {
+	margin: auto;
+	text-align: center;
+}
+.slider .slider-contact span {
+	font-size: 14px;
+}
+.slider .slider-contact h1 {
+	font-size: 25px;
+}
+.slider .slider-contact p {
+	width: 79%;
+	font-size: 13px;
+	margin: auto;
+}
+.indicators {
+	display: none
+}
+.request .request-content {
+	display: block;
+	text-align: center
+}
+.financial-content {
+	display: block;
+	text-align: center
+}
+.financial-services .serv-head h2 {
+	font-size: 2rem
+}
+.financial-content .serv-image {
+	margin-right: 9px
+}
+.financial-content .serv-image h3 {
+	font-size: 14px; margin-left: 0;
+}
+.financial-content .serv-image p {
+	font-size: 12px; margin-left: 0;
+}
+.financial-content .serv-image button {
+	margin: 0 0 30px 0;
+}
+.our-solutions .solutions-info .left-content button {
+	margin: 0 auto 30px auto;
+}
+.our-solutions .solu-overly {
+	height: 100%;
+}
+.our-solutions .solutions-info {
+	text-align: center;
+	width: 100%;
+	display: block;
+}
+.our-solutions .solutions-info .left-content h2 {
+	font-size: 26px
+}
+
+.our-solutions .solutions-info .left-content p {
+	font-size: 14px;
+	width: 100%;
+	padding-right: 5px;
+	padding-left: 5px
+}
+.our-solutions .solutions-info .right-content {
+	display: block;
+}
+.right-content .right-inner {
+	display: block;
+	text-align: center;
+	width: 58vw;
+	height: 16vh;
+	margin: auto;
+}
+.our-solutions {
+	height: 85rem
+}
+.whoWeAre .whoWeAre-content {
+	display: block
+}
+.whoWeAre .right-content {
+	text-align: center;
+}
+.whoWeAre .right-content span {
+	margin-left: 0
+}
+.whoWeAre .right-content h2 {
+	margin-left: 0;
+	font-size: 1.5rem
+}
+.whoWeAre .right-content p {
+	margin-left: 0; width: auto;
+}
+.whoWeAre .right-content button {
+	margin: .8rem 0 3rem 0
+}
+.testimonials .testi-inner {
+	display: block
+}
+.testimonials {
+	padding: 1rem 0
+}
+.testimonials .testi-item {
+	padding: 10px 0
+}
+.testimonials .testimonials-content > h2 {
+	font-size: 30px;
+}
+.contact-us .contact-info > h2 {
+	font-size: 2rem
+}
+.contact-us .form-info form {
+	display: block;
+	margin: 0
+}
+.contact-us .form-info form input {
+	width: 76vw;
+	margin-left: 0
+}
+.partners .partners-inner {
+	flex-wrap: wrap;
+}
+.partners .partners-inner img {
+	margin-bottom: 15px
+}
+footer {
+	padding: 0
+}
+footer .footer-content {
+	flex-wrap: wrap;
+	justify-content: flex-start;
+	padding-left: 10px
+}
+footer .footer-content .footer-item {
+	margin-right: 50px
+}
+footer .footer-content .form input,
+footer .footer-content .form textarea {
+	width: 84vw
+}
+footer .copyRight span {
+	display: block
+}
+.goUp {
+	right: 10px;
+	width: 7vw
+}
+}
+
+@media (max-width: 576px) {
+
+.container {
+	width: 100vw;
+	margin: auto;
+}
+main .main-content {
+	justify-content: center;
+	flex-wrap: wrap;
+}
+main .main-content .contacts {
+	text-align: center
+}
+main .social-md li:first-child {
+	border: none
+}
+main .social-md li {
+	border: none;
+	padding: 1rem 10px
+}
+main .contacts > span {
+padding:0;
+border-right:none;
+border-left:none;
+margin-right: 6px;
+}
+.slider nav {
+		width: 99vw;
+		display: block;
+		text-align: center
+	}
+.slider nav h2 {
+	font-size: 18px;
+	word-spacing: 3px
+}
+.slider nav ul {
+	line-height: 0;
+	margin-right: 6px;
+}
+.slider nav li {
+	margin-left: 0;
+	padding: 9px 3px
+}
+.slider nav ul li a {
+	font-size: 11px
+}
+.slider .slider-contact {
+	margin: auto;
+	text-align: center;
+	top: 28%
+}
+.slider .slider-contact span {
+	font-size: 14px;
+}
+.slider .slider-contact h1 {
+	font-size: 17px;
+}
+.slider .slider-contact p {
+	width: 79%;
+	font-size: 9px;
+	margin: auto;
+}
+.controllers {
+	display: none;
+}
+.indicators {
+	display: none
+}
+.request .request-content {
+	display: block;
+	text-align: center
+}
+.request .request-content h2 {
+	font-size: 17px
+}
+.request .request-content p {
+	font-size: 12px
+}
+.request .request-content button {
+	padding: 10px 16px
+}
+.financial-content {
+	display: block;
+	text-align: center
+}
+.financial-services .serv-head h2 {
+	font-size: 18px
+}
+.financial-services .serv-head p {
+	font-size: 12px;
+	margin-bottom: 2rem
+}
+.financial-content .serv-image {
+	margin-right: 9px
+}
+.financial-content .serv-image h3 {
+	font-size: 14px; margin-left: 0;
+}
+.financial-content .serv-image p {
+	font-size: 12px; margin-left: 0;
+}
+.financial-content .serv-image button {
+	margin: 0 0 30px 0;
+	padding: 11px 13px;
+}
+.our-solutions .solutions-info .left-content p:first-child {
+	font-size: 11px
+}
+.our-solutions .solutions-info .left-content button {
+	margin: 0 auto 30px auto;
+	padding: 12px 22px
+}
+.our-solutions .solu-overly {
+	height: 100%;
+}
+.our-solutions .solutions-info {
+	text-align: center;
+	width: 100%;
+	display: block;
+}
+.our-solutions .solutions-info .left-content h2 {
+	font-size: 15px
+}
+
+.our-solutions .solutions-info .left-content p {
+	font-size: 10px;
+	width: 100%;
+	padding-right: 5px;
+	padding-left: 5px
+}
+.our-solutions .solutions-info .right-content {
+	display: block;
+}
+.right-content .right-inner {
+	display: block;
+	text-align: center;
+	width: 58vw;
+	height: 16vh;
+	margin: auto;
+}
+.right-content .right-inner h3 {
+	font-size: 17px;
+	padding-top: 17px
+}
+.right-content .right-inner p {
+	font-size: 15px
+}
+.our-solutions {
+	height: 85rem
+}
+.whoWeAre .whoWeAre-content {
+	display: block
+}
+.whoWeAre .right-content {
+	text-align: center;
+}
+.whoWeAre .right-content span {
+	margin-left: 0
+}
+.whoWeAre .right-content > span {
+	font-size: 10px
+}
+.whoWeAre .right-content h2 {
+	margin-left: 0;
+	font-size: 13px
+}
+.whoWeAre .right-content p {
+	margin-left: 0; width: auto;
+	font-size: 10px
+}
+.whoWeAre .right-content button {
+	margin: .8rem 0 3rem 0;
+	padding: 12px 11px
+}
+.testimonials .testi-inner {
+	display: block
+}
+.testimonials {
+	padding: 1rem 0
+}
+.testimonials .testi-item {
+	padding: 10px 0
+}
+.testimonials .testimonials-content > h2 {
+	font-size: 17px;
+}
+.testimonials .testi-item h3 + p {
+	font-size: 11px
+}
+.testimonials .testimonials-content > p {
+	font-size: 10px
+}
+.testimonials .testi-item h3 {
+	font-size: 15px
+}
+.testimonials .testi-item p:last-child {
+	font-size: 7px
+}
+.testimonials .testi-img img {
+	width: 40px
+}
+.contact-us .contact-info > h2 {
+	font-size: 14px
+}
+.contact-us .contact-info > p {
+	font-size: 10px;
+	margin-bottom: 30px
+}
+.contact-us .form-info form {
+	display: block;
+	margin: 0
+}
+.contact-us .form-info form input {
+	width: 76vw;
+	height: 38px;
+	margin-left: 0
+}
+.contact-us .form-info form input::placeholder,
+.contact-us .form-info textarea::placeholder {
+	font-size: 10px
+}
+.contact-us .form-info button {
+	padding: 9px 9px;
+	font-size: 12px
+}
+.partners .partners-inner {
+	flex-wrap: wrap;
+}
+.partners .partners-inner img {
+	margin-bottom: 15px;
+	width: 82px
+}
+footer {
+	padding: 0
+}
+footer .footer-content h3 {
+	font-size: 15px
+}
+footer .footer-content p {
+	font-size: 9px
+}
+footer .footer-content .icons li {
+	font-size: 13px
+}
+footer .footer-content ul {
+	font-size: 10px
+}
+footer .footer-content {
+	flex-wrap: wrap;
+	justify-content: flex-start;
+	padding-left: 10px
+}
+footer .footer-content .footer-item {
+	margin-right: 50px
+}
+footer .footer-content .form input,
+footer .footer-content .form textarea {
+	width: 84vw
+}
+footer .footer-content .form input::placeholder,
+footer .footer-content .form textarea::placeholder {
+	font-size: 10px
+}
+footer .footer-content .form button {
+	padding: 11px 13px;
+	font-size: 11px
+}
+footer .copyRight {
+	font-size: 11px;
+	line-height: 2;
+}
+footer .copyRight span {
+	display: block
+}
+.goUp {
+	right: 10px;
+	width: 11vw
+}
+}
