@@ -27,6 +27,9 @@ body
 	width:87vw;
 	margin:auto;
 }
+p {
+	line-height: 2;
+}
 /* ================> start header <================ */
 header {overflow: hidden;}
 main {
@@ -339,7 +342,9 @@ main .social-md li {
 	z-index: 2;
 	position: absolute;
 	padding-top: 10rem;
-	width: 86vw
+	max-width: 100%;
+	min-width: 88%;
+}
 }
 .our-solutions .solutions-info .left-content p:first-child {
 	font-size: 1.1rem;
@@ -392,6 +397,7 @@ main .social-md li {
 	flex-direction: column;
 	align-items: center;
 	text-align: center;
+	margin-bottom: 2rem;
 }
 .right-content .right-inner h3 {
 	font-size: 2.5rem;
@@ -421,6 +427,7 @@ main .social-md li {
 }
 .whoWeAre .left-content img {
 	width: 100%;
+	height: 100%
 }
 .whoWeAre .right-content > span {
 	margin-left: 3rem;
@@ -447,7 +454,8 @@ main .social-md li {
 	line-height: 2;
 	color: #6a5e61;
 	width: 40rem;
-	margin-top: 3rem
+	margin-top: 3rem;
+	padding-right: 7px;
 }
 .whoWeAre .right-content p:last-of-type {
 	margin-bottom: 2.5rem;
@@ -609,14 +617,25 @@ grid-area: infoTwo;
 /*========> End partners <========*/
 /*========> start footer <========*/
 footer {
-	padding-top: 10rem;
+	padding-top: 3rem;
 	background-color: #232323
 }
 footer .footer-content {
 	display: flex;
-	justify-content: space-between;
+	justify-content: flex-start;
 	align-items: flex-start;
 	color: #fff
+}
+footer .footer-content .query-fix-767:first-child {
+	display: flex;
+	justify-content: space-between;
+	flex-basis: 45%;
+}
+footer .footer-content .query-fix-767:last-child {
+	display: flex;
+	justify-content: space-between;
+	flex-basis: 45%;
+	margin-left: 7%
 }
 footer .footer-content h3 {
 	text-transform: capitalize;
