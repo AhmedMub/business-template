@@ -369,7 +369,6 @@
 	}
 	.financial-content .serv-image h3 {
 		font-size: 14px;
-		margin-left: 0;
 	}
 	.financial-content .serv-image p {
 		font-size: 12px;
@@ -378,9 +377,6 @@
 		text-align: center;
 		display: block;
 		padding: 7rem 7px 0 7px
-	}
-	.our-solutions .solutions-info .left-content p {
-		padding: 0 1rem
 	}
 	.our-solutions {
 		height: 55rem
@@ -454,9 +450,6 @@ main .social-md li {
 }
 .our-solutions .solutions-info {
 	padding: 2rem 7px 0 7px
-}
-.our-solutions .solutions-info .left-content p {
-	font-size: 10px;
 }
 .our-solutions .solutions-info .right-content {
   width: 100%;
