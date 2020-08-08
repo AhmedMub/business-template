@@ -350,7 +350,7 @@
 		font-size: 20px!important;
 	}
 	p {
-		padding: 0 7px
+		padding: 0 7px!important
 	}
 	.slider nav ul {
 		line-height: 0;
@@ -390,9 +390,6 @@
 
 h2 {
 	font-size: 15px!important
-}
-p {
-	padding: 0 7px!important;
 }
 main .main-content {
 	justify-content: center;
