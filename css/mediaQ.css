@@ -97,7 +97,7 @@
 		text-align: center;
 		max-width: 100%;
 		min-width: 181px;
-		height: 21vh;
+		height: 6rem;
 		margin: 2rem auto;
 	}
 	.right-content .right-inner h3 {
@@ -184,7 +184,6 @@
 	}
 	.right-content .right-inner {
 		min-width: 134px;
-		height: 16vh;
 	}
 	.our-solutions {
 		height: 48rem
@@ -455,10 +454,6 @@ main .social-md li {
 	flex-basis: 50%;
 	flex-grow: 0;
 	margin-bottom: -4.3rem
-}
-.right-content .right-inner {
-	max-width: 58%;
-	min-width: 118px;
 }
 .right-content .right-inner h3 {
 	font-size: 17px;
